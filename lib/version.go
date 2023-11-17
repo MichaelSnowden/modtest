@@ -1,3 +1,3 @@
 package lib
 
-const Version = 2
+const Version = 3
