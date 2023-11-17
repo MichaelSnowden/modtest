@@ -6,6 +6,7 @@ import (
 )
 
 func main() {
+				println("Version 5")
 				data := [][]string{
 						[]string{"A", "The Good", "500"},
 						[]string{"B", "The Very very Bad Man", "288"},
